@@ -9,7 +9,7 @@ public class StudentmanagementApplication {
 	public static void main(String[] args) {
 		//localhost:8080
 		SpringApplication.run(StudentmanagementApplication.class, args);
-		System.out.println("実行中");
+		System.out.println("実行");
 	}
 }
 
